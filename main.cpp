@@ -1,6 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main() {
-//  项目111的创建
+/**
+ * T23 “hi”输出实现
+ */
+    cout<<"hi"<<endl;
     return 0;
 }
